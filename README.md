@@ -1,9 +1,9 @@
-# Projeto-1---OracleBoy-XXL
+# Projeto 1 - KamazKrov
 Portable RF & Pentest handheld (ESP32-S3)
 
 Visão
 
-Criar um dispositivo portátil, replicável e open-source para pesquisa de segurança wireless e automação — pensado para aprendizado, PoCs éticos e prototipagem profissional. O OracleBoy XXL é um laboratório de bolso: Wi-Fi/BLE, Sub-GHz, 2.4 GHz, RFID, IR, UI por touch + microSD + bateria. Objetivo: transformar curiosidade em resultados reais (dumps, logs, demos) sem sacrificar segurança e ética.
+Criar um dispositivo portátil, replicável e open-source para pesquisa de segurança wireless e automação — pensado para aprendizado, PoCs éticos e prototipagem profissional. O KamazKrov é um laboratório de bolso: Wi-Fi/BLE, Sub-GHz, 2.4 GHz, RFID, IR, UI por touch + microSD + bateria. Objetivo: transformar curiosidade em resultados reais (dumps, logs, demos) sem sacrificar segurança e ética.
 
 
 ---
